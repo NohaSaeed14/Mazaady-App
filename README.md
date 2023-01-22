@@ -1,5 +1,5 @@
 # Mazaady-App
-ParentAps_TestAutomationProject
+Mazaady-App TestAutomationProject
 This is a Selenium WebDriver project to show how to make testcases for excepted result or to reach acceptance criteria. Here this is a project on Mazaady App with some assertions like make created an event to check the Auction for Product is successfully Added or not using maven project with dependencies and apply using Page Object Design pattern (for every page make a class and for testcases make testng class) and put some testng annotations to handle running for test cases.
 
 # Installation
